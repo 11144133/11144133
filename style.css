@@ -124,6 +124,7 @@ h2 {
 }
 
 .pic02 {
+    /*最下面的圖片*/
     border-style: solid;
     border-color: black;
     border-width: 5px;
