@@ -1,0 +1,146 @@
+header {
+    color: black;
+    font-style: italic;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 12px 8px 5px rgb(162, 158, 158);
+    background-color: whitesmoke;
+    padding: 30px;
+
+}
+
+main {
+    background-image: url(image/nut.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: 0 -150px;
+
+}
+
+aside {
+    float: left;
+    padding: 10px;
+    height: 800px;
+    margin-left: 300px;
+
+}
+
+.pic01 {
+    border-radius: 500px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+h2 {
+    text-shadow: 12px 8px 5px rgb(162, 158, 158);
+    font-size: 30px;
+}
+
+.a02 {
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(210, 210, 210);
+    padding: 10px;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 3%;
+}
+
+.a04 {
+    position: relative;
+    left: 50px;
+
+}
+
+.a03 {
+    position: relative;
+    left: 60px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(210, 210, 210);
+    padding: 10px;
+    border: 5px solid black;
+    line-height: 10px;
+    margin-left: 850px;
+    margin-right: 540px;
+    border-radius: 6%;
+
+}
+
+.a05 {
+    position: relative;
+    left: 60px;
+    padding: 10px;
+    border: 5px solid black;
+    line-height: 10px;
+    margin: 10px 500px 10px 850px;
+    border-radius: 6%;
+    background-color: rgb(210, 210, 210);
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+
+.a06 {
+    clear: left;
+}
+
+.a07 {
+    position: relative;
+    left: 300px;
+}
+
+.a08 {
+    position: relative;
+    left: 100px;
+    bottom: 45px;
+    padding: 20px;
+    border: 5px solid black;
+    line-height: 10px;
+    margin: 90px 550px 10px 500px;
+    border-radius: 6%;
+    background-color: rgb(210, 210, 210);
+
+
+}
+
+.a09 {
+    text-align: left;
+    padding-left: 50px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.a10 {
+    position: relative;
+    left: 20px;
+    top: -50px;
+    font-weight: bolder;
+    text-decoration: underline;
+
+}
+
+.pic02 {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 6%;
+    float: left;
+    margin: 15px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 50px;
+    font-size: smaller;
+}
+
+meter {
+    width: 500px;
+
+}
